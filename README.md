@@ -1,1 +1,1 @@
-# HandTrackingProjectNew
+# Hand-Tracking-Project
